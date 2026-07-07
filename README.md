@@ -65,7 +65,7 @@ Currently:
 ## Tech Stack
 
 **Languages**
-<p><img src="https://skillicons.dev/icons?i=js,ts,html,css&theme=dark" /></p>
+<p><img src="https://skillicons.dev/icons?i=js,html,css&theme=dark" /></p>
 
 **Frontend**
 <p><img src="https://skillicons.dev/icons?i=react,redux,tailwind,materialui&theme=dark" /></p>
