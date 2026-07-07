@@ -10,7 +10,7 @@
 
 <br/><br/>
 
-<a href="https://github.com/your-github-username"><img src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=A78BFA" /></a>
+<a href="https://github.com/rudracoderr"><img src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=A78BFA" /></a>
 <a href="https://linkedin.com/in/your-linkedin-username"><img src="https://img.shields.io/badge/LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=A78BFA" /></a>
 <a href="https://your-portfolio-link.netlify.app"><img src="https://img.shields.io/badge/Portfolio-1a1b27?style=for-the-badge&logo=vercel&logoColor=A78BFA" /></a>
 <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-1a1b27?style=for-the-badge&logo=gmail&logoColor=A78BFA" /></a>
@@ -19,9 +19,9 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge&color=302b63&labelColor=1a1b27" />
-<img src="https://img.shields.io/github/followers/your-github-username?style=for-the-badge&color=302b63&labelColor=1a1b27&logo=github" />
-<img src="https://img.shields.io/github/stars/your-github-username?style=for-the-badge&color=302b63&labelColor=1a1b27&logo=github" />
+<img src="https://komarev.com/ghpvc/?username=rudracoderr&style=for-the-badge&color=302b63&labelColor=1a1b27" />
+<img src="https://img.shields.io/github/followers/rudracoderr?style=for-the-badge&color=302b63&labelColor=1a1b27&logo=github" />
+<img src="https://img.shields.io/github/stars/rudracoderr?style=for-the-badge&color=302b63&labelColor=1a1b27&logo=github" />
 
 </div>
 
@@ -157,7 +157,7 @@ A mobile-first platform connecting animal rescuers, volunteers, and administrato
 - Stateless API design to allow horizontal scaling
 - Service layer decoupled from route handlers to keep business logic portable
 
-**Repository:** `github.com/your-github-username/feel`
+**Repository:** `github.com/rudracoderr/feel`
 **Status:** 🚧 In active development
 **Roadmap:** Volunteer reputation scoring · in-app chat · multi-city rollout · admin analytics dashboard
 
@@ -178,7 +178,7 @@ A React-based weather lookup application that fetches and displays live conditio
 **Tech Stack**
 `React` `Weather API`
 
-**Repository:** `github.com/your-github-username/weather-app`
+**Repository:** `github.com/rudracoderr/weather-app`
 **Status:** ✅ Complete
 
 </details>
@@ -198,7 +198,7 @@ A personal portfolio site showcasing projects, skills, and contact information, 
 **Tech Stack**
 `React`
 
-**Repository:** `github.com/your-github-username/portfolio`
+**Repository:** `github.com/rudracoderr/portfolio`
 **Status:** ✅ Live
 
 </details>
@@ -218,7 +218,7 @@ A browser-based scientific calculator supporting standard and advanced mathemati
 **Tech Stack**
 `HTML` `CSS` `JavaScript`
 
-**Repository:** `github.com/your-github-username/scientific-calculator`
+**Repository:** `github.com/rudracoderr/scientific-calculator`
 **Status:** ✅ Complete
 
 </details>
@@ -247,31 +247,31 @@ Next  ─┴─ Contribute to open source
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" width="39%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=rudracoderr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudracoderr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" width="39%"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=your-github-username&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" width="70%"/>
+<img src="https://streak-stats.demolab.com/?user=rudracoderr&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" width="70%"/>
 
 </div>
 
 ## GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=darkhub&no-frame=true&margin-w=8&column=7" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=rudracoderr&theme=darkhub&no-frame=true&margin-w=8&column=7" width="100%"/>
 </div>
 
 ## Contribution Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=A78BFA&point=c9d1d9" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rudracoderr&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=A78BFA&point=c9d1d9" width="100%"/>
 </div>
 
 ## Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/your-github-username/your-github-username/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/rudracoderr/rudracoderr/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 
 > To enable the snake animation, add the [`platane/snk`](https://github.com/Platane/snk) GitHub Action to a repository named after your username.
@@ -316,7 +316,7 @@ Next Goal:
 
 <div align="center">
 
-<a href="https://github.com/your-github-username"><img src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=A78BFA" /></a>
+<a href="https://github.com/rudracoderr"><img src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=A78BFA" /></a>
 <a href="https://linkedin.com/in/your-linkedin-username"><img src="https://img.shields.io/badge/LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=A78BFA" /></a>
 <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-1a1b27?style=for-the-badge&logo=gmail&logoColor=A78BFA" /></a>
 <a href="https://your-portfolio-link.netlify.app"><img src="https://img.shields.io/badge/Portfolio-1a1b27?style=for-the-badge&logo=vercel&logoColor=A78BFA" /></a>
@@ -332,4 +332,5 @@ Next Goal:
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>#   r u d r a c o d e r r  
+ #   r u d r a c o d e r r  
  
