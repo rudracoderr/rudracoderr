@@ -40,7 +40,6 @@ const rudraksh = {
     "Full Stack Development",
     "Software Architecture",
     "System Design",
-    "Artificial Intelligence",
   ],
 };
 ```
@@ -66,7 +65,7 @@ Currently:
 ## Tech Stack
 
 **Languages**
-<p><img src="https://skillicons.dev/icons?i=js,ts,html,css,cpp&theme=dark" /></p>
+<p><img src="https://skillicons.dev/icons?i=js,ts,html,css&theme=dark" /></p>
 
 **Frontend**
 <p><img src="https://skillicons.dev/icons?i=react,redux,tailwind,materialui&theme=dark" /></p>
